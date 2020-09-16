@@ -2,8 +2,8 @@
 members = [
     "pb-jelly",
     "pb-jelly-gen",
-    "pb-test",
 
     # Not published
+    "pb-test",
     "examples",
 ]
